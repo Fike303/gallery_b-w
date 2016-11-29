@@ -1,0 +1,21 @@
+
+h1 {
+	font-family: Raleway, sans-serif;
+	margin-left:  1.66%;
+	margin-bottom: 0;
+	border-bottom: 3px solid black;
+	width: 30%;
+	padding-bottom: 1.66%;
+}
+
+img {
+	width: 30%; /* 3 equal columns + 10% allocated to margin */
+	float: left;
+	margin: 1.66% ; /* remaining 10% split equally between 6 margin edges */
+}
+
+footer {
+	font-family: Raleway, sans-serif;
+	margin-left: 1.66%;
+	margin-bottom: 3%;
+}
